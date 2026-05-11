@@ -1,0 +1,6 @@
+品牌/渠道,联系人/来源,邮件时间,推荐/反馈料号,类型,容量,位宽,速率,封装/包型,温度/等级,生命周期/EOL,匹配度,主要风险,下一步
+美光 / WT Microelectronics,Kun Cao,2026-05-08 08:59,MT62F1G32D2DS-020 WT:D,LPDDR5X,4GB / 32Gb,x32,9600 Mb/s per pin,315-ball TFBGA DS,待供应商确认,推荐路线；但旧 2GB x32 Y52Q/Y52P 有 EOL/停产风险,部分匹配,"容量从 2GB 上浮到 4GB；需确认价格、供货周期、生命周期、商业级/温度等级、EMIF 兼容性",补充终端客户/项目/应用/试产/量产/主芯片/年用量/每片颗数给美光
+美光 / WPI,Vince Huo,2026-05-07 17:13,MT62F1G32D2DS-020 WT:D / MT62F2G32D4DS-020 WT:D / MT62F4G32D8DV-020 WT:D / MT62F6G32D8DV-020 WT:B,LPDDR5X,4GB / 8GB / 16GB / 24GB,x32,9600 Mb/s per pin,Y62P/Y6CP,待供应商确认,8533 速率型号将停产；7500 以下已停产；PCN 信息显示旧代料 EOL,部分匹配,"无 2GB 长生命周期推荐；必须接受 4GB 起步",要求正式生命周期确认和样品/量产 lead time
+三星 / Golden Supreme,Link Liu,2026-05-08 14:18,K3KL8L80DM-TGCT,LPDDR5X,32Gb / 4GB,x32,7500 Mbps,245FBGA 8.2x12.4,Tc -25 to 85 C,供应商称消费类生命周期通常 2-3 年,不推荐,"样品 5 月底或 6 月中；生命周期不满足 5-8 年；消费类；容量/封装不完全贴合",仅保留备选，不作为主推
+南亚 / WT Microelectronics,Fifi Lin,2026-05-07 23:56,无,LPDDR5,无,无,无,无,无,无 LPDDR5,不匹配,无产品路线,关闭该渠道
+Henry / HSRP,采购发出需求,2026-05-08 10:10,待回复,LPDDR5/LPDDR5X,目标 2GB / 16Gb,目标 x32,目标 5500/6400 或可降频,Standard BGA,商业级,要求 5-8 年无 EOL,待确认,当前未见回复,采购催一次并要求明确是否有 2GB x32 长生命周期料号

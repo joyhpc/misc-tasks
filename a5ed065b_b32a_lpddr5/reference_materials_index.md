@@ -46,6 +46,15 @@ Extracted ECAD facts from the KiCad design:
 - U1 memory TSV:
   `/home/ubuntu/misc-tasks/a5ed065b_b32a_lpddr5/pin_assign/memory_side/lpddr5_315_DR_DS_U1_Bank3A_pin_net.tsv`
 
+## OrCAD / Allegro ECAD
+
+- OrCAD/Allegro ECAD notes and download sources:
+  `/home/ubuntu/misc-tasks/a5ed065b_b32a_lpddr5/orcad_ecad/README.md`
+- OrCAD Capture pin-list CSV:
+  `/home/ubuntu/misc-tasks/a5ed065b_b32a_lpddr5/orcad_ecad/lpddr5_315_tfbga_symbol_pinlist_for_orcad.csv`
+- Allegro 315-ball footprint checklist:
+  `/home/ubuntu/misc-tasks/a5ed065b_b32a_lpddr5/orcad_ecad/lpddr5_315_tfbga_footprint_spec.md`
+
 ## Datasheets And PCN
 
 - Micron 315/441/561 Y62P LPDDR5X datasheet:
